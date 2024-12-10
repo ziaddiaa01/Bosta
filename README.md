@@ -94,4 +94,4 @@ Contributions are welcome! Please:
 3. Commit your changes and push to your branch.
 4. Open a pull request.
 
-We welcome all suggestions and contributions to make this project better!
+I welcome all suggestions and contributions to make this project better!

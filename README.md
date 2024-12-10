@@ -1,5 +1,3 @@
-Here's the completed README file:
-
 ```markdown
 # Bosta Shipment Tracking Page
 

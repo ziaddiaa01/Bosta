@@ -1,4 +1,3 @@
-```markdown
 # Bosta Shipment Tracking Page
 
 ## Overview

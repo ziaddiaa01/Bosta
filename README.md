@@ -95,4 +95,3 @@ Contributions are welcome! Please:
 4. Open a pull request.
 
 We welcome all suggestions and contributions to make this project better!
-``` 

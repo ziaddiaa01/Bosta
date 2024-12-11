@@ -2,7 +2,7 @@ import React from "react";
 import { RouterProvider, createBrowserRouter, createRoutesFromElements, Route } from "react-router-dom";
 import Layout from './components/Layout';
 import OrderDetails from "./pages/OrderDetails";
-import ErrorBoundary from "./components/ErrosBoundary"
+import ErrorBoundary from "./components/ErrorBoundary"
 
 const router = createBrowserRouter(
   createRoutesFromElements(

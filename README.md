@@ -18,6 +18,9 @@ Ensure you have the following installed:
 - [Tailwind CSS](https://tailwindcss.com/docs/installation)
 - [i18next](https://www.i18next.com/) for internationalization
 - [Flowbite](https://flowbite.com/) for UI components
+- [React Redux](https://react-redux.js.org/) for State management
+
+
 
 ## Setup Instructions
 
@@ -69,7 +72,7 @@ To add i18next for translations, you need to configure it in your project.
 
 - Install the necessary i18next packages:
   ```bash
-  npm install i18next react-i18next
+  npm install i18next react-i18next i18next-browser-languagedetector react-i18next
   ```
 
 - Create a folder `src/locales` with the translation JSON files for your languages (e.g., `en/translation.json` and `ar/translation.json`).
